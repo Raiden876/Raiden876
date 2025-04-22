@@ -12,7 +12,7 @@ I'm Josephus Romero, a passionate web and mobile developer with a strong interes
 **Databases & Deployment:**  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,github,heroku)](https://skillicons.dev)  
 
-**Machine Learning:**  
+**AI & Machine Learning:**  
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)  
 
 I'm always open to collaborating on exciting projects and learning new technologies. Feel free to reach out!
