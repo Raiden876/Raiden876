@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## I'm Josephus Romero. Nice to meet you and I'm excited to showcase my skills. 😀
+
+## My stack:
+[![My Skills](https://skillicons.dev/icons?i=py,react,vue,ts,tensorflow,pytorch,sklearn)](https://skillicons.dev)
 <!--
 **Raiden876/Raiden876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
