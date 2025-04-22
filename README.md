@@ -1,9 +1,20 @@
-## Hi there 👋
+# Hi there 👋  
+I'm Josephus Romero. Web and Mobile Developer | AI/ML Enthusiast | Cybersecurity Beginner.  
 
-## I'm Josephus Romero. Nice to meet you and I'm excited to showcase my skills. 😀
+### 🔥 Tech Stacks  
 
-## My stack:
-[![My Skills](https://skillicons.dev/icons?i=py,react,vue,ts,tensorflow,pytorch,sklearn)](https://skillicons.dev)
+**Languages:**  
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,ts)](https://skillicons.dev)  
+
+**Frameworks & Libraries:**  
+[![My Skills](https://skillicons.dev/icons?i=react,vue,django,flask)](https://skillicons.dev)  
+
+**Databases & Deployment:**  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,github,heroku)](https://skillicons.dev)  
+
+**Machine Learning:**  
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)  
+
 <!--
 **Raiden876/Raiden876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
