@@ -6,16 +6,16 @@ Hi, I'm Josephus Romero — a web and mobile developer with a passion for AI/ML 
 **Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=py,js,java,ts)](https://skillicons.dev)  
 
-**💻 Frameworks & Libraries**  
+**💻 Frameworks & Libraries:**  
 [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,django,flask)](https://skillicons.dev)  
 
 **AI & Machine Learning:**  
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)  
 
-**Databases**  
+**Databases:**  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)  
 
-**Platforms & DevOps**  
+**Platforms & DevOps:**  
 [![My Skills](https://skillicons.dev/icons?i=github,git,heroku,docker)](https://skillicons.dev)  
 
 ---
