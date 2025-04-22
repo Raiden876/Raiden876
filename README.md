@@ -18,6 +18,14 @@ Hi, I'm Josephus Romero — a web and mobile developer with a passion for AI/ML 
 **Platforms & DevOps**  
 [![My Skills](https://skillicons.dev/icons?i=github,git,heroku,docker)](https://skillicons.dev)  
 
+---
+<!--
+### 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiden876&layout=compact&theme=tokyonight)](https://github.com/Raiden876)
+
+-->
+
 
 I'm always open to collaborating on exciting projects and learning new technologies. Feel free to reach out!
 
