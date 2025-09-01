@@ -18,10 +18,6 @@ Hi, I'm Josephus Romero — a web and mobile developer with a passion for AI/ML 
 **Platforms & DevOps:**  
 [![My Skills](https://skillicons.dev/icons?i=github,git,gitlab,heroku,docker)](https://skillicons.dev)  
 
-**Certifications**
-- [DataCamp: AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0028398766067)
-- [DataCamp: Python for Data Associate](https://www.datacamp.com/certificate/PDA0016258475569)
-- [DataCamp: AI Engineer for Data Scientists Associate](https://www.datacamp.com/certificate/AEDS0013751860954)
 
 ---
 <!--
