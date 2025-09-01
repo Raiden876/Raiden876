@@ -16,7 +16,7 @@ Hi, I'm Josephus Romero — a web and mobile developer with a passion for AI/ML 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)  
 
 **Platforms & DevOps:**  
-[![My Skills](https://skillicons.dev/icons?i=github,git,heroku,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab,heroku,docker)](https://skillicons.dev)  
 
 ---
 <!--
